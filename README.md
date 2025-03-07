@@ -26,7 +26,7 @@ React Hooks – Used for managing state efficiently.
 
 *Usage*
 
-Open the app in your browser at http://localhost:3000/.
+Open the app in your browser at: http://localhost:3000/.
 
 Enter a contact name and email, then click Add button.
 
