@@ -2,6 +2,8 @@
 
 The Contact Management App is a simple yet efficient web application built with React.js for managing contacts. It allows users to add, view, and delete contacts seamlessly, ensuring a smooth user experience with a dynamic and responsive interface.
 
+*Live Demo*: https://manjulathasiddantham.github.io/Contact_Management_App/
+
 *Features*
 
 Add Contacts: Users can add new contacts by entering a name and email.
