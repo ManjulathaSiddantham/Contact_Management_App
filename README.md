@@ -18,5 +18,7 @@ React Hooks – Used for managing state efficiently.
 
 *Usage*
 Enter a contact name and email, then click Add button.
+
 View the added contacts in the list below.
+
 Click the Delete button next to a contact to remove it.
